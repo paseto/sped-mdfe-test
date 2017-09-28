@@ -23,8 +23,7 @@
     "zendframework/zend-mail": "^2.5",
     "html2text/html2text": "^4.0",
     "symfony/serializer": "^3.1",
-    "symfony/property-access": "^3.1",
-    "nfephp-org/sped-console": "dev-develop"
+    "symfony/property-access": "^3.1",    
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.8",
