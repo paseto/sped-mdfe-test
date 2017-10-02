@@ -30,7 +30,7 @@ class Make extends BaseMake
      *
      * @var string
      */
-    public $versao = '1.00';
+    public $versao = '3.00';
     /**
      * mod
      * modelo da MDFe 58
